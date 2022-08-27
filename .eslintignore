@@ -18,6 +18,7 @@ vite.config.js
 **/*.json
 **/*.css
 **/*.cjs
+**/*.md
 
 # Editor directories and files
 .vscode/*
